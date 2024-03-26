@@ -6,7 +6,7 @@ image: ./cover.png
 tags:
   - htb
   - easy
-category: Walkthrough
+category: Walkthroughs
 draft: false
 ---
 nmap scan

@@ -5,7 +5,7 @@ description: ""
 image: ./cover.png
 tags:
   - easy
-  - htb
+  - htbs
 category: Walkthrough
 draft: false
 ---
