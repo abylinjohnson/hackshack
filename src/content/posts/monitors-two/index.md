@@ -1,5 +1,5 @@
 ---
-title: Monitors Two Walkthrough
+title: Monitors Two Hack The Box Walkthrough
 published: 2024-03-26
 description: ""
 image: ./cover.png
