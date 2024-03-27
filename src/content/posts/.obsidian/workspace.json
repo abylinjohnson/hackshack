@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "monitors-two/index.md",
+                "file": "zipping-walkthrough/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "monitors-two/index.md",
+                "file": "zipping-walkthrough/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "monitors-two/index.md",
+                "file": "zipping-walkthrough/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "monitors-two/index.md"
+                "file": "zipping-walkthrough/index.md"
               }
             }
           }
@@ -148,23 +148,29 @@
   },
   "active": "a643c25b11df2df0",
   "lastOpenFiles": [
-    "monitors-two/cover.png",
-    "monitors-two/2.md",
+    "two-million/index.md",
+    "two-million/cover.png",
+    "zipping-walkthrough/index.md",
+    "zipping-walkthrough/6.png",
+    "zipping-walkthrough/4.png",
+    "zipping-walkthrough/3.png",
+    "zipping-walkthrough/2.png",
+    "zipping-walkthrough/1.png",
+    "nginx-multiple-sites/index.md",
+    "zipping-walkthrough",
+    "nginx-multiple-sites/3.png",
+    "nginx-multiple-sites/1.png",
+    "nginx-multiple-sites/cover.png",
+    "nginx-multiple-sites/6.png",
     "monitors-two/index.md",
-    "monitors-two/1.png",
-    "monitors-two/12.png",
-    "monitors-two/11.png",
-    "monitors-two/10.png",
-    "monitors-two/9.png",
-    "monitors-two/8.png",
-    "monitors-two/7.png",
-    "monitors-two/6.png",
-    "monitors-two/5.png",
+    "nginx-multiple-sites.md",
+    "nginx-multiple-sites",
+    "nginx-multiple-site.md",
+    "monitors-two/2.md",
     "monitors-two",
     "video.md",
     "markdown.md",
     "guide/index.md",
-    "two-million/index.md",
     "Pasted.md",
     "draft.md",
     "two-million"

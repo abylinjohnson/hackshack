@@ -1,7 +1,7 @@
 ---
 title: Two Million Hack The Box Walkthrough
 published: 2023-12-07
-description: This is the first post of my new Astro blog.
+description: ""
 image: ./cover.png
 tags:
   - htb
