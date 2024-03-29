@@ -1,7 +1,7 @@
 ---
 title: "Dockerode: Streamlining Docker Management using Node.js"
-published: 2023-05-31
-description: ''
+published: 2023-07-31
+description: ""
 image: ./cover.png
 tags:
   - nodejs

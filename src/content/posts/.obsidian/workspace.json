@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dockerode/index.md",
+                "file": "cat-pictures-1/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dockerode/index.md",
+                "file": "cat-pictures-1/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dockerode/index.md",
+                "file": "cat-pictures-1/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dockerode/index.md"
+                "file": "cat-pictures-1/index.md"
               }
             }
           }
@@ -148,20 +148,23 @@
   },
   "active": "a643c25b11df2df0",
   "lastOpenFiles": [
-    "dockerode/1.png",
-    "dockerode/4.png",
-    "dockerode/3.png",
+    "cat-pictures-1/1.png",
+    "cat-pictures-1/index.md",
+    "cat-pictures-1/22.png",
+    "cat-pictures-1/21.png",
+    "cat-pictures-1/20.png",
+    "cat-pictures-1/19.png",
+    "cat-pictures-1/18.png",
+    "cat-pictures-1/17.png",
+    "cat-pictures-1/16.png",
+    "cat-pictures-1/15.png",
+    "cat-pictures-1/14.png",
+    "cat-pictures-1/13.png",
     "dockerode/index.md",
-    "dockerode/2.png",
-    "dockerode/cover.png",
+    "cat-pictures-1",
     "zipping-walkthrough/index.md",
     "dockerode",
     "two-million/index.md",
-    "two-million/cover.png",
-    "zipping-walkthrough/6.png",
-    "zipping-walkthrough/4.png",
-    "zipping-walkthrough/3.png",
-    "zipping-walkthrough/2.png",
     "nginx-multiple-sites/index.md",
     "zipping-walkthrough",
     "monitors-two/index.md",
