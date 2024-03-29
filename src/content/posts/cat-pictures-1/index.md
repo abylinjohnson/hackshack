@@ -1,8 +1,8 @@
 ---
 title: Cat Pictures 1
 published: 2023-07-11
-description: 
-image: ./cover.png
+description: ""
+image: ./2.png
 tags:
   - easy
   - thm
