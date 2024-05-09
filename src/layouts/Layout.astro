@@ -1,13 +1,13 @@
 ---
 import GlobalStyles from "@components/GlobalStyles.astro";
+import ImageWrapper from "@components/misc/ImageWrapper.astro";
 import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
-import ImageWrapper from "@components/misc/ImageWrapper.astro";
 
-import {pathsEqual} from "@utils/url-utils";
-import ConfigCarrier from "@components/ConfigCarrier.astro";
 import {siteConfig} from "@/config";
+import ConfigCarrier from "@components/ConfigCarrier.astro";
+import {pathsEqual} from "@utils/url-utils";
 
 interface Props {
 	title: string;
@@ -81,7 +81,13 @@ if (title) {
 		<link rel="icon" media="(prefers-color-scheme: dark)"  href="/favicon/favicon-dark-128.png" sizes="128x128">
 		<link rel="icon" media="(prefers-color-scheme: dark)"  href="/favicon/favicon-dark-180.png" sizes="180x180">
 		<link rel="icon" media="(prefers-color-scheme: dark)"  href="/favicon/favicon-dark-192.png" sizes="192x192">
-
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T4P35KSP');</script>
+<!-- End Google Tag Manager -->
 		<link rel="stylesheet" href="https://cdn.staticfile.org/KaTeX/0.16.9/katex.min.css" integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV" crossorigin="anonymous">
 
 		<style define:vars={{ configHue }}></style>  <!-- defines global css variables. This will be applied to <html> <body> and some other elements idk why -->
