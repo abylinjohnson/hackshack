@@ -4,7 +4,7 @@ published: 2023-08-24
 description: ''
 image: './cover.jpg'
 tags: ['Gaming']
-category: 'gaming'
+category: 'Gaming'
 draft: false 
 ---
 
