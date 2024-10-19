@@ -2,7 +2,7 @@
 title: Devel Hack The Box Walkthrough
 published: 2023-07-17
 description: ''
-image: ''
+image: './1.png'
 tags: ['htb','easy']
 category: 'Walkthroughs'
 draft: false 

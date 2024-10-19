@@ -2,7 +2,7 @@
 title: Recipe API using LangChain, Ollama and FastApi
 published: 2024-07-09
 description: ''
-image: ''
+image: './lc.jpg'
 tags: ['langchain', 'python', 'fastapi', 'Ollama']
 category: 'DEV'
 draft: false 
